@@ -1,0 +1,8 @@
+Latitude vs Humidity plot
+In the latitude vs humidity plot  maximum humidity percentage is between  latitude -40 to 20
+Latitude vs Maximum Temperature
+The temperature is falling sharply between latitude 20 to 60
+The temperature is maximum between -20 to 20
+Latitude vs Windspeed
+The maximum wind  speed is 0 -10 mph
+The maximum wind speed is between latitude 40 to 60
